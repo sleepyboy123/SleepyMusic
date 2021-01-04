@@ -1,4 +1,4 @@
-# SleepyArtist
+# SleepyMusic
 
 Python program that will go through a folder of songs and add the artists name in the meta data.
 
