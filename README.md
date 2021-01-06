@@ -7,3 +7,5 @@ This program was created with
 - [eyeD3](https://eyed3.readthedocs.io/en/latest/#welcome-to-eyed3)
 
 eyeD3 was giving me a bunch of `Lame tag CRC check failed` errors...
+
+https://stackoverflow.com/questions/8948/accessing-mp3-metadata-with-python
